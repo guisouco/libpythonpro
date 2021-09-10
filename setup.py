@@ -103,7 +103,7 @@ def find_package_data(
     return out
 
 
-PACKAGE = "gscol"
+PACKAGE = "libpythonpro_gsc"
 NAME = PACKAGE
 DESCRIPTION = "teste"
 AUTHOR = "Guilherme Colacio"
