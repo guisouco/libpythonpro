@@ -103,9 +103,9 @@ def find_package_data(
     return out
 
 
-PACKAGE = "libpythonpro"
+PACKAGE = "gscol"
 NAME = PACKAGE
-DESCRIPTION = "Módulo para exemplificar a construção de projetos Python no curso Pytools"
+DESCRIPTION = "teste"
 AUTHOR = "Guilherme Colacio"
 AUTHOR_EMAIL = "guilherme.souzacolacio@gmail.com"
 URL = "https://github.com/guisouco/libpythonpro"
