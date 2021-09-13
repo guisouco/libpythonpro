@@ -6,7 +6,6 @@ from distutils.util import convert_path
 from fnmatch import fnmatchcase
 from setuptools import setup, find_packages
 
-
 def read(fname):
     return codecs.open(os.path.join(os.path.dirname(__file__), fname)).read()
 
@@ -104,11 +103,11 @@ def find_package_data(
 
 
 PACKAGE = "libpythonpro_gsc"
-NAME = PACKAGE
-DESCRIPTION = "teste"
+NAME = "gsc_libpythonpro"
+DESCRIPTION = "Modulo para exemplificar a construcao de projetos Python no curso Pytools"
 AUTHOR = "Guilherme Colacio"
 AUTHOR_EMAIL = "guilherme.souzacolacio@gmail.com"
-URL = "https://github.com/guisouco/libpythonpro"
+URL = "https://github.com/guisouco/libpythonpro_gsc"
 VERSION = __import__(PACKAGE).__version__
 
 
@@ -116,16 +115,16 @@ setup(
     name=NAME,
     version=VERSION,
     description=DESCRIPTION,
-    long_description=read('README.md'),
+    long_description=open('README.md'),
     long_description_content_type='text/markdown',
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
-    license=read('LICENSE'),
+    license='GNU AFFERO GENERAL PUBLIC LICENSE',
     url=URL,
     packages=find_packages(exclude=["tests.*", "tests"]),
     package_data=find_package_data(PACKAGE, only_in_packages=False),
     classifiers=[
-        "Development Status :: 5 - Production/Stable",
+        "Development Status :: 2 - Pre-Alpha",
         "Environment :: Console",
         "Intended Audience :: Developers",
         "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",

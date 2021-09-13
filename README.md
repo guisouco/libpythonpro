@@ -1,7 +1,8 @@
-# libpythonpro
-Módulo para exemplificar a construção de projetos Python no curso Pytools
+libpythonpro_gsc
 
-Neste curso é ensinado como contribuir com projetos de códigos abertos
+Modulo para exemplificar a construcao de projetos Python no curso Pytools
+
+Neste curso e ensinado como contribuir com projetos de codigos abertos
 
 link do curso do [Python Pro](https://pythonpro.com.br/)
 
@@ -9,7 +10,7 @@ link do curso do [Python Pro](https://pythonpro.com.br/)
 [![Updates](https://pyup.io/repos/github/guisouco/libpythonpro/shield.svg)](https://pyup.io/repos/github/guisouco/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/guisouco/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/guisouco/libpythonpro/)
 
-Suportada versão 3 de Python
+Suportada versao 3 de Python
 
 Para instalar:
 
@@ -19,7 +20,7 @@ source .venv\Scripts\activate
 pip install -r requirements-dev.txt``
 
 
-Para conferir qualidade do código:
+Para conferir qualidade do codigo:
 
 ``console
 flake8``
