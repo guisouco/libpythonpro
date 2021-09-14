@@ -1,4 +1,4 @@
-#libpythonpro_gsc
+## libpythonpro_gsc
 
 Modulo para exemplificar a construcao de projetos Python no curso Pytools
 
