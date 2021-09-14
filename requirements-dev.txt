@@ -7,7 +7,6 @@ pyflakes==2.3.1
 py==1.10.0
 atomicwrites==1.4.0
 attrs==21.2.0
-backports.functoos.lru-cache==1.6.4
 funcsigs==1.0.2
 more-itertools==5.0.0
 pluggy==0.13.1
