@@ -8,3 +8,4 @@ script:
   - pytest libpythonpro_gsc --cov=libpythonpro_gsc
 after_success:
   - codecov
+
