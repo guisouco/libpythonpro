@@ -2,4 +2,17 @@ flake8==3.9.2
 mccabe==0.6.1
 pycodestyle==2.7.0
 pyflakes==2.3.1
+
+# Deps do pytest
+py==1.10.0
+atomicwrites==1.4.0
+attrs==21.2.0
+backports.functoos.lru-cache==1.6.4
+funcsigs==1.0.2
+more-itertools==5.0.0
+pluggy==0.13.1
+py==1.10.0
+pytest==4.6.11
+wcwidth==0.2.5
+six==1.16.0
 -r requirements.txt
