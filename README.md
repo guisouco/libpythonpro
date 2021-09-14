@@ -9,6 +9,7 @@ link do curso do [Python Pro](https://pythonpro.com.br/)
 [![Build Status](https://app.travis-ci.com/guisouco/libpythonpro_gsc.svg?branch=main)](https://app.travis-ci.com/guisouco/libpythonpro_gsc)
 [![Updates](https://pyup.io/repos/github/guisouco/libpythonpro_gsc/shield.svg)](https://pyup.io/repos/github/guisouco/libpythonpro_gsc/)
 [![Python 3](https://pyup.io/repos/github/guisouco/libpythonpro_gsc/python-3-shield.svg)](https://pyup.io/repos/github/guisouco/libpythonpro_gsc/)
+[![codecov](https://codecov.io/gh/guisouco/libpythonpro_gsc/branch/main/graph/badge.svg?token=5RIBGQDMJ8)](https://codecov.io/gh/guisouco/libpythonpro_gsc)
 
 Suportada versao 3 de Python
 
